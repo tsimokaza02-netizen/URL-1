@@ -799,3 +799,103 @@ majid,Akassouh,majid.akassouh@cbre.fr,,cbre.fr,mxa-001bfb01.gslb.pphosted.com,Ou
 Tracy,Germany,tracy.germany@greystar.fr,,greystar.fr,smtp.secureserver.net,Non,,Aucun format validé par SMTP,8,Très faible
 Julie,Duvillier,j.duvillier@matacapital.fr,,matacapital.fr,matacapital-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
 Xavier,Nobécourt,xavier.nobecourt@amundi.fr,,amundi.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Marie,Rouxel,marie.rouxel@sogeprom.fr,,sogeprom.fr,sogeprom-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+romain,De Valicourt,romain.devalicourt@pfizer.fr,,pfizer.fr,mx.pfizer.fr.cust.b.hostedemail.com,Non,,Aucun format validé par SMTP,8,Très faible
+Anne-Marie,Antoniotti,anne-marie.antoniotti@klepierre.fr,,klepierre.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Victor,Gotte,victor.gotte@cbre.fr,,cbre.fr,mxb-001bfb01.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Clara,Six,clara.six@colliers.fr,,colliers.fr,mail.colliers.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Elodie,NEUVILLE,e.neuville@inovefa.fr,,inovefa.fr,route1.mx.cloudflare.net,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Hugo,Molez,hmolez@huttopia.fr,,huttopia.fr,mail-fr.securemail.pro,Non,,Aucun format validé par SMTP,8,Très faible
+Mavrick,Sorroche,m.sorroche@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Adama,KÉBÉ,a.kebe@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Mohamed,BAHA,mohamed.baha@artemiscourtage.fr,,artemiscourtage.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Alexios,van der Slikke-Kirillov,alexios@legalquants.fr,,legalquants.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Philibert,LECHERE,plechere@mobivia.fr,,mobivia.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Julien,PILLOT,j.pillot@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Pauline,Serre,p.serre@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Alexis,Anciaux,alexis.anciaux@keysandroc.fr,,keysandroc.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Foulemata,FOFANA,f.fofana@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Michaël,Kicinski,michael.kicinski@sogeprom.fr,,sogeprom.fr,sogeprom-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Mélanie,MICHOUX,m.michoux@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Valérie,THINET,v.thinet@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Delphin,DALVY,d.dalvy@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Mathieu,GALY,mathieu.galy@cbre.fr,,cbre.fr,mxb-001bfb01.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Marc,BURDET,m.burdet@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Blandine,Lecroc,blandine.lecroc@valorissimo.fr,,valorissimo.fr,mail.valorissimo.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Quitterie,DE VERDIERE,q.deverdiere@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Yann,Morvan,yann.morvan@pichet.fr,,pichet.fr,pichet-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Morgane,Ferriere,m.ferriere@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Ryan,Chebbi,ryan.chebbi@pichet.fr,,pichet.fr,pichet-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Marianne,Merlin,m.merlin@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Saber,JOJ,s.joj@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Alaya-nur,Pujol,a.pujol@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Mathieu,Guisset,m.guisset@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Laetitia,CAPET,l.capet@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Paul,Beaupertuis,p.beaupertuis@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Jean-François,Schaeffer,jf.schaeffer@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,9,Très faible
+Marine,LAURENT,m.laurent@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Vincent,Gaillard,v.gaillard@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Xavier,DONNAT,xavier.donnat@pichet.fr,,pichet.fr,pichet-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Thomas,Bourse,t.bourse@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Yann,Borderie,y.borderie@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Romain,MEJAN,r.mejan@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Loren,SOHYER,l.sohyer@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Paul,EYDALEINE,p.eydaleine@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Guillaume,PELAT,g.pelat@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Al Mahdi,Lezar,a.lezar@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Emmanuelle,Côme,ecome@ketb.fr,,ketb.fr,mail.ketb.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Barbara,Ornem,b.ornem@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Emmanuel,Pasquier,emmanuel.pasquier@ca-cib.fr,,ca-cib.fr,phil.credit-agricole.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Sophie,Cau-Tolmé,s.cautolme@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Emmanuel,LAPORTE,e.laporte@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Adrien,GUERRIERI,a.guerrieri@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Paul,Barbeau,paul.barbeau@concentrix.fr,,concentrix.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Xavier,BODEAU,x.bodeau@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Astrid,BERGER,aberger@tikehaucapital.fr,,tikehaucapital.fr,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Aurelien,Alberico,aurelien.alberico@rte-france.fr,,rte-france.fr,mail.rte-france.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Charlotte,LAVEDRINE,charlotte.lavedrine@sogeprom.fr,,sogeprom.fr,sogeprom-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Julien,DARRIVERE,julien.darrivere@arteliagroup.fr,,arteliagroup.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Michel,Baizeau,michel.baizeau@schindler.fr,,schindler.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Loïc,WEBER,loic.weber@servier.fr,,servier.fr,servier-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Frédéric,MERVILLE,frederic.merville@engelvoelkers.fr,,engelvoelkers.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+William,Piper,william.piper@pichet.fr,,pichet.fr,pichet-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Viviane,Platel - Emin,viviane.platel-emin@sogeprom.fr,,sogeprom.fr,sogeprom-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,9,Très faible
+Yannick,LENZOTTI,ylenzotti@ketb.fr,,ketb.fr,mail.ketb.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Catherine,Renié,catherine.renie@sogeprom.fr,,sogeprom.fr,sogeprom-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Geoffroy,Delemar,geoffroy.delemar@schindler.fr,,schindler.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Olivier,MARTIN,olivier.martin@arteliagroup.fr,,arteliagroup.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Guy,Bossi,guy.bossi@socotec.fr,,socotec.fr,mxb-001ef801.gslb.pphosted.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Frédéric,Pléau,fpleau@uniklix.fr,,uniklix.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Emilie,Gomez,e.gomez@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Claire,Caudana,claire.caudana@cbre.fr,,cbre.fr,mxb-001bfb01.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Vincent,DUBUSSET,vincent.dubusset@greystar.fr,,greystar.fr,smtp.secureserver.net,Non,,Aucun format validé par SMTP,8,Très faible
+Arthur,Faussurier,arthur.faussurier@cbre.fr,,cbre.fr,mxb-001bfb01.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Stéphane,LEVEQUE,stephane.leveque@socotec.fr,,socotec.fr,mxb-001ef801.gslb.pphosted.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Driss,Manad,driss.manad@colliers.fr,,colliers.fr,mail.colliers.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Charles,Heurteau,cheurteau@citco.fr,,citco.fr,custmx.cscdns.net,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Baptiste,Boutron,b.boutron@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Bertrand,Doucet,bertrand@basecommune.fr,,basecommune.fr,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,8,Très faible
+Antony,Coupas,a.coupas@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Alexis,Liard,a.liard@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Guillaume,Grimbert,ggrimbert@placedestendances.fr,,placedestendances.fr,mail.placedestendances.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Mariette,K,mariette.k@louisvuitton.fr,,louisvuitton.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Kerstin,Schmidt,kerstin.schmidt@capgemini.fr,,capgemini.fr,mx1.hc674-87.eu.iphmx.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Célia,CALISTI,celia.calisti@cbre.fr,,cbre.fr,mxb-001bfb01.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Prisca,Ferre,p.ferre@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Gregory,GARREAU,g.garreau@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Laurence,BLANC (CORDA),l.blanc@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,9,Très faible
+Olivier,Weyland,olivier.weyland@mousquetaires.fr,,mousquetaires.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Herve,Chlique,herve.chlique@socotec.fr,,socotec.fr,mxb-001ef801.gslb.pphosted.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Caroline,Sauvourel-Lapp,caroline.sauvourel@sogeprom.fr,,sogeprom.fr,sogeprom-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,9,Très faible
+Jérôme,Roussely,jerome.roussely@pichet.fr,,pichet.fr,pichet-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Mouloud,BEDANI,mbedani@ketb.fr,,ketb.fr,mail.ketb.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Sebastien,Cavé,s.cave@treuil.fr,,treuil.fr,treuil-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Arnaud,Paglieri,arnaun.paglieri@sogeprom.fr,,sogeprom.fr,sogeprom-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,9,Très faible
+Elie,Raynaud,elie.raynaud@seloger.fr,,seloger.fr,seloger-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Mata,WALKER,mata.walker@sogeprom.fr,,sogeprom.fr,sogeprom-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Agostini,Adrien,a.agostini@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,9,Très faible
+Benoit,Colin,benoit.colin@stoneweg.fr,,stoneweg.fr,stoneweg-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Christophe,FAITOUT,christophe.faitout@pichet.fr,,pichet.fr,pichet-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Florian,Guillemot,florian.guillemot@sogeprom.fr,,sogeprom.fr,sogeprom-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Oussama,JERMOUMI,oussama.jermoumi@lafargeholcim.fr,,lafargeholcim.fr,localhost.lafargeholcim.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Samir,Abdelwahed,s.abdelwahed@bouygues-immobilier.fr,,bouygues-immobilier.fr,mx01.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
