@@ -2499,3 +2499,103 @@ Pierre,Breitenbach,pierre.breitenbach@serris-reim.fr,,serris-reim.fr,mx4.mail.ov
 Bruno,Martin,bruno.martin@ikory.fr,,ikory.fr,301.prodomaines.com,Non,,Aucun format validé par SMTP,8,Très faible
 Arthur,Maryns,arthur.maryns@hipay.fr,,hipay.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
 Mathis,Plateau,mathis.plateau@swisslife-am.fr,,swisslife-am.fr,asp12.mailinblack.com,Non,,Aucun format validé par SMTP,8,Très faible
+Marouane,Takiddine,marouane.takiddine@apwireless.fr,,apwireless.fr,us-smtp-inbound-1.mimecast.com,Non,mtakiddine@apwireless.fr,Valide (SMTP 250),4,Élevé
+Marc,Bouckenheimer,marc.bouckenheimer@atmoscapital.fr,,atmoscapital.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Fabien,VERGNE,fabien.vergne@egis-group.fr,,egis-group.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Alban,Marion,alban.marion@atmoscapital.fr,,atmoscapital.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Pierre,Junco,pierre.junco@hestia-re.fr,,hestia-re.fr,hestiare-fr01e.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Baptiste,Borezee,baptiste.borezee@altarea.fr,,altarea.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Angelo,POLVENT,angelo.polvent@yum.fr,,yum.fr,localhost,Non,,Aucun format validé par SMTP,8,Très faible
+Grégoire,Malézieux,gregoire.malezieux@redtreecapital.fr,,redtreecapital.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+François,Leprince,francois.leprince@arkea.fr,,arkea.fr,mx5.arkea.com,Non,,Aucun format validé par SMTP,8,Très faible
+LUCILE,LANCELOT,lucile.lancelot@edf.fr,,edf.fr,mx1.hc2212-17.eu.iphmx.com,Non,,Aucun format validé par SMTP,8,Très faible
+Kudela,Ivana,ivana.kudela@arkea.fr,,arkea.fr,mx5.arkea.com,Non,,Aucun format validé par SMTP,8,Très faible
+Pierre,Lemaire,pierre.lemaire@hestia-re.fr,,hestia-re.fr,hestiare-fr01e.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Giulio,Agnias,giulio.agnias@essilorluxottica.fr,,essilorluxottica.fr,essilorluxottica-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Xavier,Daujan,xavier.daujan@hermes.fr,,hermes.fr,mxa-0018c002.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Chloé,Makarian,chloe.makarian@serris-reim.fr,,serris-reim.fr,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Sasha,Bojic,sasha.bojic@colliers.fr,,colliers.fr,mail.colliers.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Guillaume,AMARAT,guillaume.amarat@altarea.fr,,altarea.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Geoffroy,de Sainte Marie,geoffroy.desaintemarie@axa-im.fr,,axa-im.fr,custmx.cscdns.net,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Jerome,Grenthe,jerome.grenthe@arkea.fr,,arkea.fr,mx5.arkea.com,Non,,Aucun format validé par SMTP,8,Très faible
+Boris,Tkatchenko,boris.tkatchenko@sgcib.fr,,sgcib.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Pascal,Le Goueff,pascal.legoueff@ecpnv.fr,,ecpnv.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Faustine,Thibault,fthibault@mercialys.fr,,mercialys.fr,mail.mercialys.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Georges,PEREIRA,georges.pereira@hines.fr,,hines.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+François-Xavier,Decourrière,francois-xavier.decourriere@aew.fr,,aew.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Marian,Schulz,marian.schulz@scannellproperties.fr,,scannellproperties.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Olivier,ROBIN,olivier.robin@clariane.fr,,clariane.fr,clariane-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Raphael,Bufi,raphael.bufi@bp.fr,,bp.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Alexis,RENAULT,arenault@fonciere-lyonnaise.fr,,fonciere-lyonnaise.fr,custmx.cscdns.net,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Nicolas,Decloquement,nicolas.decloquement@etyo.fr,,etyo.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Philippe,DELHOTEL,philippe.delhotel@altarea.fr,,altarea.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Gregory,BERCOVICI,gregory.bercovici@cbreim.fr,,cbreim.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Margaux,Marie,margaux.marie@bnpparibas.fr,,bnpparibas.fr,smtp-in-internet-usr-m.gslb.srv.bnpparibas,Non,margaux.marie@bnpparibas.fr,Valide (SMTP 250),1,Élevé
+Paul-Antoine,Olivier,paul-antoine.olivier@sofidy.fr,,sofidy.fr,sofidy-fr.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Camille,Lacour,camille.lacour@cushwake.fr,,cushwake.fr,mail.idp365.net,Non,,Aucun format validé par SMTP,8,Très faible
+Matthieu,Urruty,matthieu.urruty@keyvesta.fr,,keyvesta.fr,keyvesta-fr.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Arnaud,Blin-Davost,arnaud.blindavost@arthur-loyd.fr,,arthur-loyd.fr,mail.arthur-loyd.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Adrien,Portoleau,adrien.portoleau@knightfrank.fr,,knightfrank.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Pierre,Garin,pierre.garin@linxea.fr,,linxea.fr,linxea-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Elsa,Kieken,elsa.kieken@linkcity.fr,,linkcity.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Guillaume,Comte,guillaume.frte@ofi-invest-re.fr,,ofi-invest-re.fr,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,9,Très faible
+Simone,Pereira,simone.pereira@prologis.fr,,prologis.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Zeineb,ALAOUI HASSANI,zeineb.alaouihassani@attijariwafa.fr,,attijariwafa.fr,mx.dnsassurance.com,Non,,Aucun format validé par SMTP,8,Très faible
+Abderhamane,Belhadad,abderhamane.belhadad@valorrep.fr,,valorrep.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Lukas,CHYTIL,lukas.chytil@nhood.fr,,nhood.fr,custmx.cscdns.net,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Jérémy,Steu,jeremy.steu@knightfrank.fr,,knightfrank.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Emmanuel,Merle,emmanuel.merle@groupeidec.fr,,groupeidec.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Sonia,Brawand,sonia.brahimi@yardi.fr,,yardi.fr,mxb-0005a801.gslb.pphosted.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Hugo,Cheysson,hugo.cheysson@keenfootwear.fr,,keenfootwear.fr,smtp.sarenet.es,Non,,Aucun format validé par SMTP,8,Très faible
+Nathalie,Viguier,nathalie.viguier@colliers.fr,,colliers.fr,mail.colliers.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Guillaume,d'Hautefeuille,guillaume.dhautefeuille@eiffage.fr,,eiffage.fr,mxb-00284a02.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Eva,BOUHNIK GENTON,eva.bouhnikgenton@ofi-invest-re.fr,,ofi-invest-re.fr,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,8,Très faible
+Edouard,Blanche,edouard.blanche@fonciere-magellan.fr,,fonciere-magellan.fr,foncieremagellan-fr02b.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Julien,Martin,julien.martin@aknotrade.fr,,aknotrade.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Louis,HUGOT,louis.hugot@northwoodinvestors.fr,,northwoodinvestors.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Julian,Burg,julian.burg@jll.fr,,jll.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Thibault,Jonville,thibault.jonville@cushwake.fr,,cushwake.fr,mail.idp365.net,Non,,Aucun format validé par SMTP,8,Très faible
+Ismael,Ly,ismael.ly@fundpartneram.fr,,fundpartneram.fr,mx1.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Erika,Leonard,erika.leonard@jll.fr,,jll.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Alexandre,DESHAYES,alexandre.deshayes@harmony-re.fr,,harmony-re.fr,mx00.ionos.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Foster,Dusseau,foster.dusseau@eastdilsecured.fr,,eastdilsecured.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Loïc,Oliveira,loic.oliveira@cbre.fr,,cbre.fr,mxb-001bfb01.gslb.pphosted.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Augustin,OLIVIER,augustin.olivier@crossbay.fr,,crossbay.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Albert,Yang,albert.yang@cimgroup.fr,,cimgroup.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Marion,Roullier,marion.roullier@carrefour.fr,,carrefour.fr,de-smtp-inbound-2.mimecast.com,Non,m.roullier@carrefour.fr,Valide (SMTP 250),3,Élevé
+Hadrien,GREMAUD,hadrien.gremaud@lamellux.fr,,lamellux.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Camille,de Klopstein,camille.deklopstein@praemiareim.fr,,praemiareim.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Richard,Boudier,richard.boudier@groupeidec.fr,,groupeidec.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Orlane,Curron,orlane.curron@consultim.fr,,consultim.fr,mx1.site-internet.com,Non,,Aucun format validé par SMTP,8,Très faible
+Laurent,BISTORIN,laurent.bistorin@vinci-construction.fr,,vinci-construction.fr,vinciconstruction-fr01c.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Olivier,Gavin,olivier.gavin@bnpparibas.fr,,bnpparibas.fr,smtp-in-internet-usr-m.gslb.srv.bnpparibas,Non,olivier.gavin@bnpparibas.fr,Valide (SMTP 250),1,Élevé
+Thomas,Ducerf,thomas.ducerf@urban-premium.fr,,urban-premium.fr,urbanpremium-fr01c.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Delphine,LAFFAY,delphine.laffay@groupeidec.fr,,groupeidec.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Maude,Treillet,maude.treillet@carrefour.fr,,carrefour.fr,de-smtp-inbound-2.mimecast.com,Non,maude_treillet@carrefour.fr,Valide (SMTP 250),6,Élevé
+Alexandre,DOTTO,alexandre.dotto@22re.fr,,22re.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Gary,BLANQUET,gary.blanquet@equans.fr,,equans.fr,blotelec-fr01b.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+DIDIER,HESS,didier.hess@altarea.fr,,altarea.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Pierre-Antoine,Corbau,pierre-antoine.corbau@hammerson.fr,,hammerson.fr,eu-smtp-inbound-2.mimecast.com,Non,pierre-antoine.corbau@hammerson.fr,Valide (SMTP 250),1,Élevé
+Charles,Demant,charles.demant@praemiareim.fr,,praemiareim.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Frédérique,LE COUSTURIER,frederique.lecousturier@vinci-construction.fr,,vinci-construction.fr,vinciconstruction-fr01c.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Loic,FIEVET,loic.fievet@amiparis.fr,,amiparis.fr,mx-01-eu-central-1.prod.hydra.sophos.com,Non,loic@amiparis.fr,Valide (SMTP 250),8,Élevé
+Nordine,Hachemi,nhachemi@ketb.fr,,ketb.fr,mail.ketb.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Bertrand,Croquelois,bertrand.croquelois@france-valley.fr,,france-valley.fr,aspmx.l.google.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Jérôme,GRUMLER,jerome.grumler@tikehaucapital.fr,,tikehaucapital.fr,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Mathilde,LAFARGUE,mathilde.lafargue@uxco-group.fr,,uxco-group.fr,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Jean-Cassien,de Mautort,jean-cassien.demautort@knightfrank.fr,,knightfrank.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Rémi,Dechelotte,remi.dechelotte@goodman.fr,,goodman.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Robert-Alexandre,Poujade,robert-alexandre.poujade@bnpparibas.fr,,bnpparibas.fr,smtp-in-internet-usr-m.gslb.srv.bnpparibas,Non,robert-alexandre.poujade@bnpparibas.fr,Valide (SMTP 250),1,Élevé
+Hallez,Alan,alan.hallez@generali-invest.fr,,generali-invest.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Pia,Giraud,pia.giraud@praemiareim.fr,,praemiareim.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Hariri,SAIDI,hariri.saidi@tishmanspeyer.fr,,tishmanspeyer.fr,us-smtp-inbound-2.mimecast.com,Non,,Aucun format validé par SMTP,8,Très faible
+Nathalie,Hadjadj Cazier,nathalie.hadjadj@fieldfisher.fr,,fieldfisher.fr,eu-smtp-inbound-2.mimecast.com,Non,,Aucun format validé par SMTP,9,Très faible
+Jorge,Santiago,jorge.santiago@rabotdutilleul.fr,,rabotdutilleul.fr,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Sirine,Daher,sirine.daher@mileway.fr,,mileway.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Thomas,SEGUY,thomas.seguy@theboostsociety.fr,,theboostsociety.fr,theboostsociety-fr.mail.protection.outlook.com,Non,tseguy@theboostsociety.fr,Valide (SMTP 250),4,Élevé
+Marine-Axelle,Blaise,marine-axelle.blaise@galerieslafayette.fr,,galerieslafayette.fr,mailhost.laser.fr,Non,,Aucun format validé par SMTP,9,Très faible
+Benjamin,CARONI,benjamin.caroni@groupeidec.fr,,groupeidec.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Damien,Girault,damien.girault@cycleenergy.fr,,cycleenergy.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Guillaume,Abadia,guillaume.abadia@rabotdutilleul.fr,,rabotdutilleul.fr,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Ornella,Di Iorio,ornella.diiorio@ethifinance.fr,,ethifinance.fr,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+Sophie,Sévellec,sophie.sevellec@apsysgroup.fr,,apsysgroup.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
